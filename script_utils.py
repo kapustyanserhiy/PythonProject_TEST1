@@ -106,4 +106,14 @@ def build_fuel_cell_pwl_definition(
         "h2_values_kgph": h2_values,
         "slopes_beta": slopes,
         "intercepts_alpha": intercepts,
+        "segments": segments,
+        "p_min": p_min,
+        "p_max": p_max,
+        "coeff_a": a,
+        "coeff_b": b,
+        "coeff_c": c,
+   
     }
+
+
+# Comment 1
